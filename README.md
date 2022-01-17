@@ -1,2 +1,8 @@
 # download-youtube-playlist-nodejs
-node_modules
+
+## clone project
+
+## run `npm i`
+## run `node app.js`
+
+### used modules `ytdl-core` `ytpl`
