@@ -1,8 +1,11 @@
 # download-youtube-playlist-nodejs
 
-## clone project
+## How
 
-## run `npm i`
-## run `node app.js`
+- clone project
+- run `npm i`
+- run `node app.js`
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
 
-### used modules `ytdl-core` `ytpl`
+- ✨Used Modules  `ytdl-core` `ytpl`✨
